@@ -1,30 +1,30 @@
 {
-  "name": "ks-dock",
-  "version": "0.0.0",
-  "description": "Top dock bar for iknsa-frontend-framework libs",
-  "main": "templates/dock.html",
+  "name": "ks-breadcrumb",
+  "version": "0.0.2",
+  "description": "Top breadcrumb bar for iknsa-frontend-framework libs",
+  "main": "templates/breadcrumb.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ks-frontend/ks-dock.git"
+    "url": "https://github.com/ks-frontend/ks-breadcrumb.git"
   },
   "keywords": [
     "iknsa-frontend-framework",
-    "dock",
+    "breadcrumb",
     "css",
     "scss",
     "jquery",
-    "ks-dock",
+    "ks-breadcrumb",
     "iknsa-frontend-framework"
   ],
   "author": "Khalid Sookia <khalidsookia@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ks-frontend/ks-dock/issues"
+    "url": "https://github.com/ks-frontend/ks-breadcrumb/issues"
   },
-  "homepage": "https://github.com/ks-frontend/ks-dock",
+  "homepage": "https://github.com/ks-frontend/ks-breadcrumb",
   "devDependencies": {
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-compass": "^1.0.1",

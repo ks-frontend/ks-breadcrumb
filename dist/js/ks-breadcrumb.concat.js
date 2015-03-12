@@ -1,13 +1,12 @@
 /*!
- * ks-dock - v0.0.0 - 2015-03-05
- * https://github.com/ks-frontend/ks-dock
+ * ks-breadcrumb - v0.0.0 - 2015-03-11
+ * https://github.com/ks-frontend/ks-breadcrumb
  * Copyright (c) 2015 
  * Licensed ISC
  */
 // Breadcrumb
 
 
-//-------------------
 function ks_strategy_firstCapital(param, elementObject)
 {
     // console.log(elementObject);
